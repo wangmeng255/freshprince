@@ -1,0 +1,36 @@
+body{
+	background-color: #FFE87C;
+	font-size: 100%;
+}
+h1{
+	color: red;
+	font-size: 1.5em;
+	font-weight: bold;
+}
+p{
+	text-align: center;
+	font-family: Georgia, Serif;
+	font-style: italic;
+	font-size: 1em;
+}
+a:link{
+	color: blue;
+	background-color: transparent;
+	text-decoration: none;
+}
+a:visited{
+    color: red;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:hover{
+	color: blue;
+	background-color: white;
+	text-decoration: underline;
+}
+.myDiv{
+	text-align: center;
+}
+img { 
+    display: inline-block;
+}
